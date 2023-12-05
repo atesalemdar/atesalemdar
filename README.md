@@ -1,4 +1,4 @@
-- 👋 Merhaba! Ben @atesalemdar
+- 👋 Merhaba! Ben Ateş Alemdar
 - 👀 Web site yazmak benim çok ilgimi çekiyor.
 - 🌱 Şuanda öğrenme aşamasındayım.
 - 📫 Bana buradan ulaşabilirsiniz: atesalemdar0@gmail.com 
